@@ -8,4 +8,6 @@ const sayHi = (name) => {
     console.log(`Hello ${name}!`)
 }
 
-sayHi('Suraj')
+sayHi('Suraj');
+module.exports = {sayHi}
+console.log(module);
