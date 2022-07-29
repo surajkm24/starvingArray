@@ -6,5 +6,5 @@ if(amount<10){
 else {
    console.log('Large');  
 }
-
+ 
 console.log('Hey its my first node program!');
